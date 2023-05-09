@@ -1,0 +1,71 @@
+.Benefit{
+    background-image: url(../LEVELONEPROJECT/Media/AdobeStock_243631705\ 1.png);
+    width: 100%;
+    background-size: cover;
+    height: 700px;
+}
+.fit{
+    padding-top: 190px;
+    padding-left: 75px;
+    font-weight: 600;
+    line-height: 64px;
+    letter-spacing: 1px;
+    font-size: 64px;
+    color: white;
+}
+.group{
+    width: 1440px;
+    height: 15px;
+    padding: absolute;
+    margin-top: 20px;
+}
+.footercard{
+    background-color: #2e3040;
+    width: 100%;
+}
+.Footerbtn{
+    background-color: #ffd050;
+
+
+}
+.footerinp{
+    background-color: transparent;
+    border: 0.5px solid #ffd050;
+}
+.footaddress img{
+    color: white;
+}
+/* .btn{
+    font-size: 13px;
+} */
+
+
+p{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+h3{
+    font-size: 28px;
+    font-family: 'Inter', sans-serif;
+}
+h6{
+   font-family: 'Inter', sans-serif; 
+    /* margin-left: -180px; */
+}
+
+@media only screen and (max-width: 600px) {
+    .footpass{
+        width: 100%;
+        }
+}
+@media only screen and (max-width: 600px) {
+    .fit{
+    padding-top: 190px;
+    padding-left: 75px;
+    font-weight: 600;
+    line-height: 64px;
+    letter-spacing: 1px;
+    font-size: 50px;
+    color: white;
+        }
+}

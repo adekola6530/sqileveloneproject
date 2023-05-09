@@ -1,0 +1,64 @@
+body{
+    overflow-x: hidden;
+}
+.About{
+    background-image: url(../LEVELONEPROJECT/Media/AdobeStock_133891886\ 1.png);
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+}
+.text1{
+    font-size: 64px;
+    padding-top: 250px;
+    padding-left: 20px;
+}
+.group{
+    width: 1440px;
+    height: 15px;
+    padding: absolute;
+    margin-top: 20px;
+}
+h4{
+    font-size: 14px;
+    color:purple
+}
+footer{
+    background-color: #000000;
+}
+footer h1{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -2px;
+    text-align: left;
+}
+.footercard{
+    background-color: #232323;
+}
+.Footerbtn{
+    background-color: hsl(44, 100%, 66%);
+}
+.Footerbtn button{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.footpass{
+    background-color: transparent;
+    color: #6d6e76;
+    border: 2px solid #6d6e76;
+    outline: none;
+}
+@media only screen and (max-width: 600px) {
+    .footpass{
+        width: 100%;
+        }
+@media screen and (min-width: 600px) {
+    .group{
+        width: 100%;
+    } 
+    .foot{
+        width: 100%;
+    }
+
+}

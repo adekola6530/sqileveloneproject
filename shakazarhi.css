@@ -1,0 +1,111 @@
+.shakazarhi{
+    background-image: url(../LEVELONEPROJECT/Media/AdobeStock_76522411\ 1.png);
+    width: 100%;
+    background-size: cover;
+    height: 720px;
+}
+.text{
+    padding-top: 320px;
+    padding-left: 50px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 1px;
+    font-size: 64px;
+    font-family: 'Sen', sans-serif;
+    color: black;
+}
+.group{
+    width: 1440px;
+    height: 15px;
+    padding: absolute;
+    margin-top: 20px;
+}
+.utilize{
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 40px;
+    font-family: 'Inter', sans-serif;
+}
+h2{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -2px;
+    font-family: 'Sen', sans-serif;
+    color:#382B73;
+}
+h3{
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 40px;
+    font-family: 'Sen', sans-serif;
+    color:#232536;
+
+}
+h4{
+    font-size: 16px;
+    font-family: 'Sen', sans-serif;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 3px;
+    color: #232536;
+}
+.order{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    font-family:'Sen', sans-serif;
+}
+.list,{
+   list-style-image: url(../LEVELONEPROJECT/Media/Vector\ \(1\).png); 
+    text-align: center;
+}
+#mission{
+    background-color:#F4F0F8;
+    width: 50%;
+
+}
+footer{
+    background-color: #000000;
+}
+footer h1{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -2px;
+    text-align: left;
+}
+.footercard{
+    background-color: #232323;
+}
+.Footerbtn{
+    background-color: hsl(44, 100%, 66%);
+}
+.Footerbtn button{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.footpass{
+    background-color: transparent;
+    color: #6d6e76;
+    border: 2px solid #6d6e76;
+    outline: none;
+}
+@media only screen and (max-width: 600px) {
+    .footpass{
+        width: 100%;
+        }
+}
+@media only screen and (max-width: 600px) {
+    .text{
+    padding-top: 200px;
+    padding-left: 50px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 1px;
+    font-family: 'Sen', sans-serif;
+    color: black;
+    font-size: 40px;
+        }
+}
